@@ -1,7 +1,6 @@
 ### Hi, there 👋
 
 ===
-===
 * Studying to become Data Engineer
 #### Interest 
 * Machine Learning & Deep learning 
@@ -27,7 +26,9 @@ Here are some ideas to get you started:
 
 #### Stack
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+
 ===
+
 #### 📫 How to reach me
 
 
