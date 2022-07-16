@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, there 👋
+
+===
+===
+* Studying to become Data Engineer
+#### Interest 
+* Machine Learning & Deep learning 
+* Financail related Research
+
 
 <!--
 **Young312886/Young312886** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +24,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Stack
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+===
+#### 📫 How to reach me
 
 
 <div align=left>
